@@ -1,5 +1,7 @@
 package dio.me.model;
 
+import org.h2.store.Data;
+
 public class Transacao {
 private Long id;
 private Data data;
